@@ -1,0 +1,9 @@
+"F:\python projects\packet_corelation\.venv\Scripts\python.exe" "F:\python projects\packet_corelation\second.py" 
+Correlation Matrix:
+                 Packet Size  Error Number  Duration  Protocol Number
+Packet Size         1.000000      0.095321  0.070665        -0.042589
+Error Number        0.095321      1.000000  0.116844        -0.032062
+Duration            0.070665      0.116844  1.000000        -0.123464
+Protocol Number    -0.042589     -0.032062 -0.123464         1.000000
+
+Process finished with exit code 0
